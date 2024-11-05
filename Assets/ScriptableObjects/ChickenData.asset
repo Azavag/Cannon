@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f535100365da745adf515f94b01f03, type: 3}
+  m_Name: ChickenData
+  m_EditorClassIdentifier: 
+  enemyName: Chick
+  enemyHealth: 10
+  enemySpeed: 3
+  enemyDamage: 10
+  enemyMeleeAttackRange: 1.2
